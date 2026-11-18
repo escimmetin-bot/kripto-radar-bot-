@@ -1,11 +1,5 @@
 [
   {
-    "slug": "hack-sald-r-s-binance-in-fonuna-darbe-vurdu-bitcoi",
-    "title": "Hack saldırısı Binance’in fonuna darbe vurdu: Bitcoin’lerin yarısı gitti!",
-    "status": "posted",
-    "ts": 1793701473.7266247
-  },
-  {
     "slug": "binance-in-kullan-c-koruma-fonundaki-bitcoinler-ya",
     "title": "Binance’in Kullanıcı Koruma Fonundaki Bitcoinler Yarıya İndi: Ne Zaman Tamamlanacak?",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Kriptoda bir ayı piyasası klasiği: Hızlı ve dev satışlar…",
     "status": "posted",
     "ts": 1795030366.519351
+  },
+  {
+    "slug": "eski-sec-ba-kan-gensler-dan-bitcoin-tahmini-geldi",
+    "title": "Eski SEC Başkanı Gensler’dan Bitcoin tahmini geldi",
+    "status": "posted",
+    "ts": 1795037163.3497605
   }
 ]
