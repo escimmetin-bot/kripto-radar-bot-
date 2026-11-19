@@ -1,11 +1,5 @@
 [
   {
-    "slug": "strategy-yeniden-bitcoin-ald-toplam-rezervi-849-bi",
-    "title": "Strategy yeniden Bitcoin aldı: Toplam rezervi 849 bin BTC’yi aştı",
-    "status": "posted",
-    "ts": 1793760165.5988657
-  },
-  {
     "slug": "bitcoin-abd-ara-se-imleri-ncesinde-77-bin-dolar-n-",
     "title": "Bitcoin, ABD ara seçimleri öncesinde 77 bin doların altına düştü",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Bitcoin, Fed’in faiz artışı baskısıyla dört ayın en düşük seviyesini gördü",
     "status": "posted",
     "ts": 1795093294.075159
+  },
+  {
+    "slug": "trump-media-n-n-bitcoin-rezervi-g-ndemde-tahvil-sa",
+    "title": "Trump Media’nın Bitcoin Rezervi Gündemde: Tahvil Sahipleri 884 Milyon Dolara Kadar Nakit İsteyebilir",
+    "status": "posted",
+    "ts": 1795102250.2584999
   }
 ]
