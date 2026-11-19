@@ -1,11 +1,5 @@
 [
   {
-    "slug": "bitcoin-abd-ara-se-imleri-ncesinde-77-bin-dolar-n-",
-    "title": "Bitcoin, ABD ara seçimleri öncesinde 77 bin doların altına düştü",
-    "status": "posted",
-    "ts": 1793767854.1762192
-  },
-  {
     "slug": "rusya-n-n-en-b-y-k-borsas-bitcoin-e-kap-a-yor-list",
     "title": "Rusya’nın En Büyük Borsası Bitcoin’e Kapı Açıyor: Listede USDT de Var",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Trump Media’nın Bitcoin Rezervi Gündemde: Tahvil Sahipleri 884 Milyon Dolara Kadar Nakit İsteyebilir",
     "status": "posted",
     "ts": 1795102250.2584999
+  },
+  {
+    "slug": "binance-spot-piyasada-yeni-bir-listeleme-i-lemler-",
+    "title": "Binance Spot Piyasada Yeni Bir Listeleme: İşlemler Başlıyor",
+    "status": "posted",
+    "ts": 1795110700.5304341
   }
 ]
