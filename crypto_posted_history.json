@@ -1,11 +1,5 @@
 [
   {
-    "slug": "bitcoin-78-bin-dolara-d-nd-altcoin-lerde-toparlanm",
-    "title": "Bitcoin 78 bin dolara döndü: Altcoin’lerde toparlanma",
-    "status": "posted",
-    "ts": 1793793089.967412
-  },
-  {
     "slug": "binance-ten-al-nan-fonlar-bu-a-dan-ge-iyor-altcoin",
     "title": "Binance’ten Çalınan Fonlar Bu Ağdan Geçiyor: Altcoini Yüzde 10 Yükseldi",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Sui’de Bitcoin Teminatlı USDC Kredisi: Hashi Ana Ağda Açıldı",
     "status": "posted",
     "ts": 1795124638.3763068
+  },
+  {
+    "slug": "xrp-iki-y-l-n-en-d-k-haftal-k-kapan-n-yaparak-krit",
+    "title": "XRP, iki yılın en düşük haftalık kapanışını yaparak kritik seviyeye geriledi",
+    "status": "posted",
+    "ts": 1795131551.5590308
   }
 ]
