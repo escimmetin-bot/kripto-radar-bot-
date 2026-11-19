@@ -1,11 +1,5 @@
 [
   {
-    "slug": "binance-rekor-kripto-soygununda-al-nan-6-3-milyar-",
-    "title": "Binance rekor kripto soygununda çalınan 6,3 milyar doların %90’ını değiştirdi",
-    "status": "posted",
-    "ts": 1793731381.7234273
-  },
-  {
     "slug": "binance-6-3-milyar-dolarl-k-hack-in-y-zde-90-n-kar",
     "title": "Binance, 6,3 milyar dolarlık hack’in yüzde 90’ını karşıladı; Bitcoin yükseldi",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Bitcoin 65 bin doların altında durgun; Fed tutanakları bekleniyor",
     "status": "posted",
     "ts": 1795060329.9923644
+  },
+  {
+    "slug": "bitcoin-65-bin-dolar-n-alt-nda-s-k-t-etf-k-lar-s-r",
+    "title": "Bitcoin 65 bin doların altında sıkıştı, ETF çıkışları sürüyor",
+    "status": "posted",
+    "ts": 1795067935.1792138
   }
 ]
