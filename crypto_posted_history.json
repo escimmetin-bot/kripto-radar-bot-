@@ -1,11 +1,5 @@
 [
   {
-    "slug": "arbitrum-g-venlik-konseyi-binance-sald-rgan-n-n-30",
-    "title": "Arbitrum Güvenlik Konseyi, Binance saldırganının 30 milyon dolarlık fonuna el koydu",
-    "status": "posted",
-    "ts": 1793753155.44331
-  },
-  {
     "slug": "strategy-yeniden-bitcoin-ald-toplam-rezervi-849-bi",
     "title": "Strategy yeniden Bitcoin aldı: Toplam rezervi 849 bin BTC’yi aştı",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Ripple CEO’su: Kripto piyasası, Anthropic halka arzı bittikten sonra toparlanabilir",
     "status": "posted",
     "ts": 1795085838.596201
+  },
+  {
+    "slug": "bitcoin-fed-in-faiz-art-bask-s-yla-d-rt-ay-n-en-d-",
+    "title": "Bitcoin, Fed’in faiz artışı baskısıyla dört ayın en düşük seviyesini gördü",
+    "status": "posted",
+    "ts": 1795093294.075159
   }
 ]
