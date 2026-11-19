@@ -1,11 +1,5 @@
 [
   {
-    "slug": "kripto-d-nyas-ndan-cz-ye-sert-tepki-sa-mal-k",
-    "title": "Kripto dünyasından CZ’ye sert tepki: “Saçmalık…”",
-    "status": "posted",
-    "ts": 1793784445.1256704
-  },
-  {
     "slug": "bitcoin-78-bin-dolara-d-nd-altcoin-lerde-toparlanm",
     "title": "Bitcoin 78 bin dolara döndü: Altcoin’lerde toparlanma",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Binance Saldırısında Dondurulan 1,56 Milyar Dolarlık USDT İçin Tether’den İade Açıklaması",
     "status": "posted",
     "ts": 1795118249.6467364
+  },
+  {
+    "slug": "sui-de-bitcoin-teminatl-usdc-kredisi-hashi-ana-a-d",
+    "title": "Sui’de Bitcoin Teminatlı USDC Kredisi: Hashi Ana Ağda Açıldı",
+    "status": "posted",
+    "ts": 1795124638.3763068
   }
 ]
