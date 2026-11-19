@@ -1,11 +1,5 @@
 [
   {
-    "slug": "bitcoin-korku-t-rman-rken-daha-fazla-d-riskiyle-ka",
-    "title": "Bitcoin, korku tırmanırken daha fazla düşüş riskiyle karşı karşıya; Binance hack’i piyasaları sarstı",
-    "status": "posted",
-    "ts": 1793724464.1872358
-  },
-  {
     "slug": "binance-rekor-kripto-soygununda-al-nan-6-3-milyar-",
     "title": "Binance rekor kripto soygununda çalınan 6,3 milyar doların %90’ını değiştirdi",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Citi kriptoda hedef düşürdü: Hem Bitcoin hem Ether…",
     "status": "posted",
     "ts": 1795052903.5430906
+  },
+  {
+    "slug": "bitcoin-65-bin-dolar-n-alt-nda-durgun-fed-tutanakl",
+    "title": "Bitcoin 65 bin doların altında durgun; Fed tutanakları bekleniyor",
+    "status": "posted",
+    "ts": 1795060329.9923644
   }
 ]
