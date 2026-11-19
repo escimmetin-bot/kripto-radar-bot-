@@ -1,11 +1,5 @@
 [
   {
-    "slug": "rusya-n-n-en-b-y-k-borsas-bitcoin-e-kap-a-yor-list",
-    "title": "Rusya’nın En Büyük Borsası Bitcoin’e Kapı Açıyor: Listede USDT de Var",
-    "status": "posted",
-    "ts": 1793775511.3499348
-  },
-  {
     "slug": "kripto-d-nyas-ndan-cz-ye-sert-tepki-sa-mal-k",
     "title": "Kripto dünyasından CZ’ye sert tepki: “Saçmalık…”",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Binance Spot Piyasada Yeni Bir Listeleme: İşlemler Başlıyor",
     "status": "posted",
     "ts": 1795110700.5304341
+  },
+  {
+    "slug": "binance-sald-r-s-nda-dondurulan-1-56-milyar-dolarl",
+    "title": "Binance Saldırısında Dondurulan 1,56 Milyar Dolarlık USDT İçin Tether’den İade Açıklaması",
+    "status": "posted",
+    "ts": 1795118249.6467364
   }
 ]
