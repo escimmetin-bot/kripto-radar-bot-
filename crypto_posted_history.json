@@ -1,11 +1,5 @@
 [
   {
-    "slug": "dev-sald-r-lardan-sonra-bitcoin-e-ne-oldu-10-vakad",
-    "title": "Dev Saldırılardan Sonra Bitcoin’e Ne Oldu? 10 Vakada Dikkat Çeken Sonuç",
-    "status": "posted",
-    "ts": 1793827074.9869177
-  },
-  {
     "slug": "abd-de-kripto-i-in-yeni-yasa-plan-trump-a-da-s-n-r",
     "title": "ABD’de Kripto İçin Yeni Yasa Planı: Trump’a da Sınır Gelebilir",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Kurumlar Bitcoin Fonlarında Alıma Döndü: Dokuz Aylık Satışı Tek Çeyrekte Aştılar",
     "status": "posted",
     "ts": 1795158077.1036136
+  },
+  {
+    "slug": "binance-sald-r-s-n-n-ard-ndan-yeni-fon-hareketi-i-",
+    "title": "Binance Saldırısının Ardından Yeni Fon Hareketi: İki Günde 594 Milyon Dolarlık Ethereum Taşındı",
+    "status": "posted",
+    "ts": 1795168442.8397746
   }
 ]
