@@ -1,11 +1,5 @@
 [
   {
-    "slug": "sec-den-canton-coin-i-in-yapt-r-m-yok-mektubu",
-    "title": "SEC’den Canton Coin için “Yaptırım yok” mektubu…",
-    "status": "posted",
-    "ts": 1793874872.2052367
-  },
-  {
     "slug": "binance-te-xrp-i-in-4-y-l-n-en-g-l-k-tl-k-sinyali-",
     "title": "Binance’te XRP İçin 4 Yılın En Güçlü Kıtlık Sinyali: Fiyata Yansıyacak mı?",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Binance Saldırısında 149 Milyon Dolarlık Bitcoin’in Takibi Zorlaştı",
     "status": "posted",
     "ts": 1795207864.2026937
+  },
+  {
+    "slug": "bitcoin-59-bin-dolar-n-alt-na-i-ndi-kriptoda-1-5-m",
+    "title": "Bitcoin 59 Bin Doların Altına İndi: Kriptoda 1,5 Milyar Dolarlık Tasfiye",
+    "status": "posted",
+    "ts": 1795214589.593398
   }
 ]
