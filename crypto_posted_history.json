@@ -1,11 +1,5 @@
 [
   {
-    "slug": "trump-media-bitcoin-mi-satacak-borsaya-344-milyon-",
-    "title": "Trump Media Bitcoin mi Satacak? Borsaya 344 Milyon Dolarlık Transfer Bildirildi",
-    "status": "posted",
-    "ts": 1793850548.6810641
-  },
-  {
     "slug": "sec-uniswap-gibi-y-neti-im-token-lar-i-in-karar-n-",
     "title": "SEC, Uniswap gibi yönetişim token’ları için kararını açıkladı!",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "BlackRock’ın Bitcoin Fonunda Rekor Çıkış: Bir Günde 541 Milyon Dolar",
     "status": "posted",
     "ts": 1795184152.149123
+  },
+  {
+    "slug": "aptos-apt-bir-haftada-24-d-erek-sonbahar-rallisini",
+    "title": "Aptos (APT) bir haftada %24 düşerek sonbahar rallisini sildi",
+    "status": "posted",
+    "ts": 1795192016.456353
   }
 ]
