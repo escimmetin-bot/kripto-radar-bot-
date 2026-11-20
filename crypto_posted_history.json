@@ -1,11 +1,5 @@
 [
   {
-    "slug": "trump-media-343-milyon-dolar-de-erinde-4-259-adet-",
-    "title": "Trump Media, 343 milyon dolar değerinde 4.259 adet Bitcoin’i borsaya transfer etti",
-    "status": "posted",
-    "ts": 1793866988.6305623
-  },
-  {
     "slug": "sec-den-canton-coin-i-in-yapt-r-m-yok-mektubu",
     "title": "SEC’den Canton Coin için “Yaptırım yok” mektubu…",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Bitcoin Madencilik Zorluğu Yüzde 9 Düştü: Luxor’a Göre Asıl Neden Bitcoin’in Fiyatı Değil",
     "status": "posted",
     "ts": 1795199168.0790157
+  },
+  {
+    "slug": "binance-sald-r-s-nda-149-milyon-dolarl-k-bitcoin-i",
+    "title": "Binance Saldırısında 149 Milyon Dolarlık Bitcoin’in Takibi Zorlaştı",
+    "status": "posted",
+    "ts": 1795207864.2026937
   }
 ]
