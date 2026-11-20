@@ -1,11 +1,5 @@
 [
   {
-    "slug": "bitcoin-d-erken-milyarlarca-dolar-k-r-yaz-ld-ether",
-    "title": "Bitcoin Düşerken Milyarlarca Dolar Kâr Yazıldı: Ethereum’da Tablo Tersine Döndü",
-    "status": "posted",
-    "ts": 1793820552.926377
-  },
-  {
     "slug": "dev-sald-r-lardan-sonra-bitcoin-e-ne-oldu-10-vakad",
     "title": "Dev Saldırılardan Sonra Bitcoin’e Ne Oldu? 10 Vakada Dikkat Çeken Sonuç",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Bitcoin 61.300 Dolara İndi: Kriptoda 600 Milyon Doları Aşan Tasfiye",
     "status": "posted",
     "ts": 1795148939.3728642
+  },
+  {
+    "slug": "kurumlar-bitcoin-fonlar-nda-al-ma-d-nd-dokuz-ayl-k",
+    "title": "Kurumlar Bitcoin Fonlarında Alıma Döndü: Dokuz Aylık Satışı Tek Çeyrekte Aştılar",
+    "status": "posted",
+    "ts": 1795158077.1036136
   }
 ]
