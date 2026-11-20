@@ -1,11 +1,5 @@
 [
   {
-    "slug": "binance-ten-al-nan-fonlar-bu-a-dan-ge-iyor-altcoin",
-    "title": "Binance’ten Çalınan Fonlar Bu Ağdan Geçiyor: Altcoini Yüzde 10 Yükseldi",
-    "status": "posted",
-    "ts": 1793801090.3778527
-  },
-  {
     "slug": "bitcoin-80-bin-dolar-a-t-d-bekleyenlere-bir-saatte",
     "title": "Bitcoin 80 Bin Doları Aştı: Düşüş Bekleyenlere Bir Saatte 269 Milyon Dolarlık Darbe",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "XRP, iki yılın en düşük haftalık kapanışını yaparak kritik seviyeye geriledi",
     "status": "posted",
     "ts": 1795131551.5590308
+  },
+  {
+    "slug": "hakimden-2-5-milyar-dolarl-k-bitcoin-teklifi-geri-",
+    "title": "Hakimden 2.5 milyar dolarlık Bitcoin teklifi: “Geri ver, davayı düşürelim”",
+    "status": "posted",
+    "ts": 1795140168.0617259
   }
 ]
