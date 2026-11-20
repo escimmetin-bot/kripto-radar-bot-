@@ -1,11 +1,5 @@
 [
   {
-    "slug": "okx-ceo-sundan-cz-ye-sert-k-r-portaj-midemi-buland",
-    "title": "OKX CEO’sundan CZ’ye sert çıkış: “Röportajı midemi bulandırdı”",
-    "status": "posted",
-    "ts": 1793843022.7803843
-  },
-  {
     "slug": "trump-media-bitcoin-mi-satacak-borsaya-344-milyon-",
     "title": "Trump Media Bitcoin mi Satacak? Borsaya 344 Milyon Dolarlık Transfer Bildirildi",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Binance Vadeli İşlemlerde 3 Yeni Listeleme: İşlemler Bugün Başlıyor",
     "status": "posted",
     "ts": 1795175535.2569532
+  },
+  {
+    "slug": "blackrock-n-bitcoin-fonunda-rekor-k-bir-g-nde-541-",
+    "title": "BlackRock’ın Bitcoin Fonunda Rekor Çıkış: Bir Günde 541 Milyon Dolar",
+    "status": "posted",
+    "ts": 1795184152.149123
   }
 ]
