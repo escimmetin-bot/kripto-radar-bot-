@@ -1,11 +1,5 @@
 [
   {
-    "slug": "cz-den-sald-r-lar-i-in-uyar-bankalar-daha-b-y-k-ri",
-    "title": "CZ’den saldırılar için uyarı: “Bankalar daha büyük risk altında…”",
-    "status": "posted",
-    "ts": 1793914834.0555763
-  },
-  {
     "slug": "bu-altcoinin-etf-si-nasdaq-a-geldi-fiyat-y-zde-5-t",
     "title": "Bu Altcoinin ETF’si Nasdaq’a Geldi: Fiyatı Yüzde 5’ten Fazla Yükseldi",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "XRP İki Yılın Dibine İndi: Spot ETF’lerin Varlıkları 1 Milyar Doların Altında",
     "status": "posted",
     "ts": 1795247090.8127756
+  },
+  {
+    "slug": "bitcoin-57-bin-dolar-n-alt-na-i-ndi-i-ki-y-l-n-dib",
+    "title": "Bitcoin 57 Bin Doların Altına İndi: İki Yılın Dibinde 2,4 Milyar Dolarlık Kripto Tasfiyesi",
+    "status": "posted",
+    "ts": 1795254159.2455955
   }
 ]
