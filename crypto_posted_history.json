@@ -1,11 +1,5 @@
 [
   {
-    "slug": "binance-ten-bu-ba-lant-y-kullananlara-uyar-hesapla",
-    "title": "Binance’ten Bu Bağlantıyı Kullananlara Uyarı: Hesaplarınızı Kontrol Edin",
-    "status": "posted",
-    "ts": 1793892329.1977775
-  },
-  {
     "slug": "bitcoin-76-bin-dolar-n-alt-na-i-ndi-y-kseli-bekley",
     "title": "Bitcoin 76 Bin Doların Altına İndi: Yükseliş Bekleyenlere 819 Milyon Dolarlık Darbe",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Maple Finance’in SYRUP token’ı bir ayda değerinin yarısını kaybetti",
     "status": "posted",
     "ts": 1795222540.3936212
+  },
+  {
+    "slug": "strategy-den-bitcoin-rezervi-a-klamas-hi-bir-btc-t",
+    "title": "Strategy’den Bitcoin Rezervi Açıklaması: Hiçbir BTC Teminat Altında Değil",
+    "status": "posted",
+    "ts": 1795230976.972872
   }
 ]
