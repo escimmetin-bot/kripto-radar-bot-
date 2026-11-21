@@ -1,11 +1,5 @@
 [
   {
-    "slug": "morgan-stanley-rwa-i-in-start-verdi-mevcut-sisteml",
-    "title": "Morgan Stanley, RWA için startı verdi: “Mevcut sistemle birleştiriyoruz”",
-    "status": "posted",
-    "ts": 1793936835.797934
-  },
-  {
     "slug": "bitcoin-madencisinin-geliri-artt-hissesi-y-zde-17-",
     "title": "Bitcoin Madencisinin Geliri Arttı, Hissesi Yüzde 17 Düştü: Yapay Zekâ Öne Geçti",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Bitcoin 56.000 doların altına düştü, kripto satış dalgası derinleşiyor",
     "status": "posted",
     "ts": 1795269219.3905923
+  },
+  {
+    "slug": "chainflip-sald-r-s-sonras-flip-y-zde-34-d-t",
+    "title": "Chainflip Saldırısı Sonrası FLIP Yüzde 34 Düştü",
+    "status": "posted",
+    "ts": 1795275542.799371
   }
 ]
