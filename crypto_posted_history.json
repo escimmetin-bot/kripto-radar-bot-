@@ -1,11 +1,5 @@
 [
   {
-    "slug": "nasdaq-daki-sert-d-kripto-piyasas-n-vurdu-1-08-mil",
-    "title": "Nasdaq’daki sert düşüş kripto piyasasını vurdu: 1,08 milyar dolarlık tasfiye yaşandı",
-    "status": "posted",
-    "ts": 1793953121.902804
-  },
-  {
     "slug": "bitcoin-76-bin-dolar-geri-ald-ama-para-k-s-r-yor-t",
     "title": "Bitcoin 76 Bin Doları Geri Aldı ama Para Çıkışı Sürüyor: Toparlanmanın Önünde Ne Var?",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Bitcoin düşerken onlar alım yaptı: Yüz milyonlarca dolar hareket etti",
     "status": "posted",
     "ts": 1795282631.4238272
+  },
+  {
+    "slug": "cyber-k-pr-phesiyle-y-zde-8-d-t-bithumb-da-transfe",
+    "title": "CYBER Köprü Şüphesiyle Yüzde 8 Düştü: Bithumb da Transferleri Durdurdu",
+    "status": "posted",
+    "ts": 1795290104.1800294
   }
 ]
