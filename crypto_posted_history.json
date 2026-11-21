@@ -1,11 +1,5 @@
 [
   {
-    "slug": "bitcoin-madencisinin-geliri-artt-hissesi-y-zde-17-",
-    "title": "Bitcoin Madencisinin Geliri Arttı, Hissesi Yüzde 17 Düştü: Yapay Zekâ Öne Geçti",
-    "status": "posted",
-    "ts": 1793944335.3374472
-  },
-  {
     "slug": "nasdaq-daki-sert-d-kripto-piyasas-n-vurdu-1-08-mil",
     "title": "Nasdaq’daki sert düşüş kripto piyasasını vurdu: 1,08 milyar dolarlık tasfiye yaşandı",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Chainflip Saldırısı Sonrası FLIP Yüzde 34 Düştü",
     "status": "posted",
     "ts": 1795275542.799371
+  },
+  {
+    "slug": "bitcoin-d-erken-onlar-al-m-yapt-y-z-milyonlarca-do",
+    "title": "Bitcoin düşerken onlar alım yaptı: Yüz milyonlarca dolar hareket etti",
+    "status": "posted",
+    "ts": 1795282631.4238272
   }
 ]
