@@ -1,11 +1,5 @@
 [
   {
-    "slug": "bu-altcoinin-etf-si-nasdaq-a-geldi-fiyat-y-zde-5-t",
-    "title": "Bu Altcoinin ETF’si Nasdaq’a Geldi: Fiyatı Yüzde 5’ten Fazla Yükseldi",
-    "status": "posted",
-    "ts": 1793921964.924902
-  },
-  {
     "slug": "saylor-dan-bitcoin-i-in-2-3-y-ll-k-y-kseli-beklent",
     "title": "Saylor’dan Bitcoin İçin 2–3 Yıllık Yükseliş Beklentisi: Yeni Arzı Kim Alacak?",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Bitcoin 57 Bin Doların Altına İndi: İki Yılın Dibinde 2,4 Milyar Dolarlık Kripto Tasfiyesi",
     "status": "posted",
     "ts": 1795254159.2455955
+  },
+  {
+    "slug": "nl-kripto-geli-tiricisi-a-klad-y-zde-95-zcash-y-zd",
+    "title": "Ünlü kripto geliştiricisi açıkladı: “Yüzde 95 Zcash, yüzde 5 Bitcoin…”",
+    "status": "posted",
+    "ts": 1795261234.3116076
   }
 ]
