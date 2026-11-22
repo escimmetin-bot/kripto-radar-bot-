@@ -1,11 +1,5 @@
 [
   {
-    "slug": "bitcoin-abd-deki-d-zenleyici-belirsizlik-ve-g-l-is",
-    "title": "Bitcoin, ABD’deki düzenleyici belirsizlik ve güçlü istihdam raporu ile 76 bin doların altına düştü",
-    "status": "posted",
-    "ts": 1794001384.4075215
-  },
-  {
     "slug": "bitcoin-s-p-500-le-daha-yak-n-hareket-ediyor-y-n-n",
     "title": "Bitcoin S&P 500’le Daha Yakın Hareket Ediyor: Yönü Ne Belirliyor?",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Bitcoin ve Altcoinler Ne Durumda: Piyasalara Genel Bakış (21 Kasım 2026)",
     "status": "posted",
     "ts": 1795326729.4029727
+  },
+  {
+    "slug": "bitcoin-core-da-d-mleri-yava-latan-a-k-kapat-ld-ha",
+    "title": "Bitcoin Core’da Düğümleri Yavaşlatan Açık Kapatıldı: Hangi Sürümler Etkilendi?",
+    "status": "posted",
+    "ts": 1795334995.0809162
   }
 ]
