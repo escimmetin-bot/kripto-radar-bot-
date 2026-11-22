@@ -1,11 +1,5 @@
 [
   {
-    "slug": "bitcoin-ve-nasdaq-ta-d-lerin-yaratt-ilgin-tablo-ta",
-    "title": "Bitcoin ve Nasdaq’ta düşüşlerin yarattığı ilginç tablo: Tarihte ikinci kez görülüyor",
-    "status": "posted",
-    "ts": 1794038002.0723643
-  },
-  {
     "slug": "bitcoin-76-000-dolara-toparland-ancak-1-3-milyar-d",
     "title": "Bitcoin 76.000 dolara toparlandı, ancak 1,3 milyar dolarlık ETF çıkışı toparlanmayı zorluyor",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Bitcoin’i kim kurtaracak? Milyarlar çıkıyor, yeni alıcılar nerede?",
     "status": "posted",
     "ts": 1795364108.6250622
+  },
+  {
+    "slug": "bitcoin-de-tarihte-sadece-iki-kez-g-r-len-tablo-ye",
+    "title": "Bitcoin’de tarihte sadece iki kez görülen tablo yeniden ortaya çıktı",
+    "status": "posted",
+    "ts": 1795370960.3221648
   }
 ]
