@@ -1,11 +1,5 @@
 [
   {
-    "slug": "abd-de-i-stihdam-beklentiyi-100-bin-a-t-faiz-art-b",
-    "title": "ABD’de İstihdam Beklentiyi 100 Bin Aştı: Faiz Artışı Beklentisi Yeniden Güçlenir mi?",
-    "status": "posted",
-    "ts": 1793994424.0840077
-  },
-  {
     "slug": "bitcoin-abd-deki-d-zenleyici-belirsizlik-ve-g-l-is",
     "title": "Bitcoin, ABD’deki düzenleyici belirsizlik ve güçlü istihdam raporu ile 76 bin doların altına düştü",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Kraken’de Bitcoin Bir Paritede 27 Bin ABD Doları Eşdeğerine İndi: İşlemler İptal Edilmeyecek",
     "status": "posted",
     "ts": 1795319333.8172941
+  },
+  {
+    "slug": "bitcoin-ve-altcoinler-ne-durumda-piyasalara-genel-",
+    "title": "Bitcoin ve Altcoinler Ne Durumda: Piyasalara Genel Bakış (21 Kasım 2026)",
+    "status": "posted",
+    "ts": 1795326729.4029727
   }
 ]
