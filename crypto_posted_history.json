@@ -1,11 +1,5 @@
 [
   {
-    "slug": "binance-france-hesaplar-31-aral-k-ta-kapatacak-var",
-    "title": "Binance France Hesapları 31 Aralık’ta Kapatacak: Varlık Tutanlara Aylık Ücret Başlıyor",
-    "status": "posted",
-    "ts": 1794015121.0808012
-  },
-  {
     "slug": "trump-d-neminin-b-y-k-eli-kisi-wall-street-kazand-",
     "title": "Trump döneminin büyük çelişkisi: Wall Street kazandı, Bitcoin beklentilerin gerisinde kaldı",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Bitcoin’in ‘dijital altın’ tezi S&P 500 karşısında zayıflıyor",
     "status": "posted",
     "ts": 1795342612.2483523
+  },
+  {
+    "slug": "altcoinlerin-bitcoin-e-g-re-i-lem-hacmi-yaz-dibini",
+    "title": "Altcoinlerin Bitcoin’e Göre İşlem Hacmi Yaz Dibinin Altında: Eylülde Dört Katıydı",
+    "status": "posted",
+    "ts": 1795349506.0477223
   }
 ]
