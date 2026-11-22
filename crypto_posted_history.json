@@ -1,11 +1,5 @@
 [
   {
-    "slug": "bitcoin-s-p-500-le-daha-yak-n-hareket-ediyor-y-n-n",
-    "title": "Bitcoin S&P 500’le Daha Yakın Hareket Ediyor: Yönü Ne Belirliyor?",
-    "status": "posted",
-    "ts": 1794007842.992936
-  },
-  {
     "slug": "binance-france-hesaplar-31-aral-k-ta-kapatacak-var",
     "title": "Binance France Hesapları 31 Aralık’ta Kapatacak: Varlık Tutanlara Aylık Ücret Başlıyor",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Bitcoin Core’da Düğümleri Yavaşlatan Açık Kapatıldı: Hangi Sürümler Etkilendi?",
     "status": "posted",
     "ts": 1795334995.0809162
+  },
+  {
+    "slug": "bitcoin-in-dijital-alt-n-tezi-s-p-500-kar-s-nda-za",
+    "title": "Bitcoin’in ‘dijital altın’ tezi S&P 500 karşısında zayıflıyor",
+    "status": "posted",
+    "ts": 1795342612.2483523
   }
 ]
