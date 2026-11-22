@@ -1,11 +1,5 @@
 [
   {
-    "slug": "trump-kripto-memecoin-i-tarihi-ara-se-im-yenilgisi",
-    "title": "Trump kripto memecoin’i tarihi ara seçim yenilgisi sonrası rekor düşüşte",
-    "status": "posted",
-    "ts": 1794050962.090256
-  },
-  {
     "slug": "bitcoin-abd-se-imleri-sonras-80-5-bin-dolara-y-kse",
     "title": "Bitcoin ABD seçimleri sonrası 80,5 bin dolara yükseldi",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Chainflip’in Bitcoin Kasasından da 122,86 BTC Çalındı: Kayıp 12 Milyon Dolara Çıktı",
     "status": "posted",
     "ts": 1795378637.0450895
+  },
+  {
+    "slug": "bitcoin-in-16-bin-dolara-d-t-kripto-para-borsas-nd",
+    "title": "Bitcoin’in 16 bin dolara düştüğü kripto para borsasından açıklama geldi",
+    "status": "posted",
+    "ts": 1795385738.878234
   }
 ]
