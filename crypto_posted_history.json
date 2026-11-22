@@ -1,11 +1,5 @@
 [
   {
-    "slug": "bir-d-nemin-deviydi-bitcoin-madencili-ini-b-rak-yo",
-    "title": "Bir dönemin deviydi: Bitcoin madenciliğini bırakıyor",
-    "status": "posted",
-    "ts": 1794030097.0262687
-  },
-  {
     "slug": "bitcoin-ve-nasdaq-ta-d-lerin-yaratt-ilgin-tablo-ta",
     "title": "Bitcoin ve Nasdaq’ta düşüşlerin yarattığı ilginç tablo: Tarihte ikinci kez görülüyor",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Kurumsal yatırımcılar, 9 aylık satış sonrası 3. çeyrekte 4 milyar dolarlık Bitcoin fonu aldı",
     "status": "posted",
     "ts": 1795357525.2622833
+  },
+  {
+    "slug": "bitcoin-i-kim-kurtaracak-milyarlar-k-yor-yeni-al-c",
+    "title": "Bitcoin’i kim kurtaracak? Milyarlar çıkıyor, yeni alıcılar nerede?",
+    "status": "posted",
+    "ts": 1795364108.6250622
   }
 ]
