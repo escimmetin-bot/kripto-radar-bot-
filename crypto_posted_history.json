@@ -1,11 +1,5 @@
 [
   {
-    "slug": "bitcoin-ve-ether-etf-lerinden-se-im-sonras-ralliyi",
-    "title": "Bitcoin ve Ether ETF’lerinden seçim sonrası ralliyi silen 530 milyon dolarlık çıkış",
-    "status": "posted",
-    "ts": 1793983492.8385773
-  },
-  {
     "slug": "abd-de-i-stihdam-beklentiyi-100-bin-a-t-faiz-art-b",
     "title": "ABD’de İstihdam Beklentiyi 100 Bin Aştı: Faiz Artışı Beklentisi Yeniden Güçlenir mi?",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Bitcoin Dipten Yüzde 9’dan Fazla Yükseldi: 60 Bin Doları Geri Aldı",
     "status": "posted",
     "ts": 1795312856.51428
+  },
+  {
+    "slug": "kraken-de-bitcoin-bir-paritede-27-bin-abd-dolar-e-",
+    "title": "Kraken’de Bitcoin Bir Paritede 27 Bin ABD Doları Eşdeğerine İndi: İşlemler İptal Edilmeyecek",
+    "status": "posted",
+    "ts": 1795319333.8172941
   }
 ]
