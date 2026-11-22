@@ -1,11 +1,5 @@
 [
   {
-    "slug": "bitcoin-76-000-dolara-toparland-ancak-1-3-milyar-d",
-    "title": "Bitcoin 76.000 dolara toparlandı, ancak 1,3 milyar dolarlık ETF çıkışı toparlanmayı zorluyor",
-    "status": "posted",
-    "ts": 1794044401.60244
-  },
-  {
     "slug": "trump-kripto-memecoin-i-tarihi-ara-se-im-yenilgisi",
     "title": "Trump kripto memecoin’i tarihi ara seçim yenilgisi sonrası rekor düşüşte",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Bitcoin’de tarihte sadece iki kez görülen tablo yeniden ortaya çıktı",
     "status": "posted",
     "ts": 1795370960.3221648
+  },
+  {
+    "slug": "chainflip-in-bitcoin-kasas-ndan-da-122-86-btc-al-n",
+    "title": "Chainflip’in Bitcoin Kasasından da 122,86 BTC Çalındı: Kayıp 12 Milyon Dolara Çıktı",
+    "status": "posted",
+    "ts": 1795378637.0450895
   }
 ]
