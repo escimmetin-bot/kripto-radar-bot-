@@ -1,11 +1,5 @@
 [
   {
-    "slug": "bitcoin-ekim-kay-plar-n-n-ard-ndan-78-bin-dolarda-",
-    "title": "Bitcoin, Ekim kayıplarının ardından 78 bin dolarda dengelendi",
-    "status": "posted",
-    "ts": 1794103199.0701938
-  },
-  {
     "slug": "hisse-senedi-pozisyonlar-rekor-d-ya-ad-db",
     "title": "Hisse senedi pozisyonları rekor düşüş yaşadı: DB",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Bitcoin Hazinesini İşlemlerde Kullanan İsveçli Şirket 30 BTC Kaybetti",
     "status": "posted",
     "ts": 1795431602.084821
+  },
+  {
+    "slug": "strategy-bu-kez-dipten-de-bitcoin-ald-strc-eklemel",
+    "title": "Strategy bu kez dipten de Bitcoin aldı: STRC eklemeleri de sürüyor",
+    "status": "posted",
+    "ts": 1795439051.9595418
   }
 ]
