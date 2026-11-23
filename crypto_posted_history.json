@@ -1,11 +1,5 @@
 [
   {
-    "slug": "rusya-merkez-bankas-bitcoin-ethereum-ve-usdt-yi-pe",
-    "title": "Rusya Merkez Bankası Bitcoin, Ethereum ve USDT’yi Perakende Yatırımcılara Açtı",
-    "status": "posted",
-    "ts": 1794130856.1371934
-  },
-  {
     "slug": "solana-kurucusu-yakovenko-kripto-sekt-r-g-nah-ke-i",
     "title": "Solana kurucusu Yakovenko: Kripto sektörü günah keçisi olacak",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Binance Saldırısında Yeni Rakam: Çalınan 247 Milyon Doların İzini Sürmek Zorlaştı",
     "status": "posted",
     "ts": 1795463923.7001238
+  },
+  {
+    "slug": "bitcoin-tasfiye-kaynakl-sat-n-ard-ndan-63-000-dola",
+    "title": "Bitcoin, tasfiye kaynaklı satışın ardından 63.000 doların üzerine çıktı",
+    "status": "posted",
+    "ts": 1795470576.816946
   }
 ]
