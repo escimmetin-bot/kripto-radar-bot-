@@ -1,11 +1,5 @@
 [
   {
-    "slug": "bitcoin-76-bin-dolar-n-alt-nda-binance-ab-kapan-la",
-    "title": "Bitcoin 76 bin doların altında, Binance AB kapanışları baskı yapıyor",
-    "status": "posted",
-    "ts": 1794124424.337772
-  },
-  {
     "slug": "rusya-merkez-bankas-bitcoin-ethereum-ve-usdt-yi-pe",
     "title": "Rusya Merkez Bankası Bitcoin, Ethereum ve USDT’yi Perakende Yatırımcılara Açtı",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Bitcoin Toparlanırken 8,8 Milyar Dolarlık Daralma: Analist Kalıcı Yükseliş İçin İki Sinyal İzliyor",
     "status": "posted",
     "ts": 1795456843.6952431
+  },
+  {
+    "slug": "binance-sald-r-s-nda-yeni-rakam-al-nan-247-milyon-",
+    "title": "Binance Saldırısında Yeni Rakam: Çalınan 247 Milyon Doların İzini Sürmek Zorlaştı",
+    "status": "posted",
+    "ts": 1795463923.7001238
   }
 ]
