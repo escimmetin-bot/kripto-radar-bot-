@@ -1,11 +1,5 @@
 [
   {
-    "slug": "bitcoin-abd-ara-se-im-tedirginli-iyle-1-ay-n-en-d-",
-    "title": "Bitcoin, ABD ara seçim tedirginliğiyle 1 ayın en düşüğüne geriledi",
-    "status": "posted",
-    "ts": 1794092660.4016473
-  },
-  {
     "slug": "bitcoin-ekim-kay-plar-n-n-ard-ndan-78-bin-dolarda-",
     "title": "Bitcoin, Ekim kayıplarının ardından 78 bin dolarda dengelendi",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Binance’te Bitcoin Açık Pozisyonları Bir Yılda Yaklaşık Yüzde 40 Azaldı",
     "status": "posted",
     "ts": 1795422594.7512414
+  },
+  {
+    "slug": "bitcoin-hazinesini-i-lemlerde-kullanan-i-sve-li-ir",
+    "title": "Bitcoin Hazinesini İşlemlerde Kullanan İsveçli Şirket 30 BTC Kaybetti",
+    "status": "posted",
+    "ts": 1795431602.084821
   }
 ]
