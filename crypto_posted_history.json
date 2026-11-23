@@ -1,11 +1,5 @@
 [
   {
-    "slug": "hisse-senedi-pozisyonlar-rekor-d-ya-ad-db",
-    "title": "Hisse senedi pozisyonları rekor düşüş yaşadı: DB",
-    "status": "posted",
-    "ts": 1794109516.303885
-  },
-  {
     "slug": "coinbase-ve-circle-da-kullan-m-art-yor-yeni-i-ler-",
     "title": "Coinbase ve Circle’da Kullanım Artıyor: Yeni İşler İstikrarlı Gelir Sağlıyor mu?",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Strategy bu kez dipten de Bitcoin aldı: STRC eklemeleri de sürüyor",
     "status": "posted",
     "ts": 1795439051.9595418
+  },
+  {
+    "slug": "binance-te-ethereum-i-in-bu-veri-t-m-zamanlar-n-en",
+    "title": "Binance’te Ethereum İçin Bu Veri Tüm Zamanların En Düşüğünü Gördü",
+    "status": "posted",
+    "ts": 1795449513.7018993
   }
 ]
