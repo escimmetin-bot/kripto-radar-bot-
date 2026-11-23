@@ -1,11 +1,5 @@
 [
   {
-    "slug": "bitcoin-etf-lerinden-1-28-milyar-dolar-kt-2026-ak-",
-    "title": "Bitcoin ETF’lerinden 1,28 Milyar Dolar Çıktı: 2026 Akışı Eksiye Döndü",
-    "status": "posted",
-    "ts": 1794071276.4773986
-  },
-  {
     "slug": "binance-cfo-su-6-milyar-dolarl-k-kripto-sald-r-s-n",
     "title": "Binance CFO’su 6 milyar dolarlık kripto saldırısından günler sonra ayrıldı",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Bitcoin 10% oranında geriledi",
     "status": "posted",
     "ts": 1795398755.6195297
+  },
+  {
+    "slug": "bitcoin-55-326-dolara-geriledi-ard-ndan-60-000-dol",
+    "title": "Bitcoin 55.326 dolara geriledi, ardından 60.000 doların üzerine çıktı",
+    "status": "posted",
+    "ts": 1795406248.6893222
   }
 ]
