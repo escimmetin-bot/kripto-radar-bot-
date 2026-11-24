@@ -1,11 +1,5 @@
 [
   {
-    "slug": "abd-de-demokratlar-kongreyi-ald-kriptoda-denetim-a",
-    "title": "ABD’de Demokratlar Kongreyi Aldı: Kriptoda Denetim Artar mı, Yeni Yasa Çıkar mı?",
-    "status": "posted",
-    "ts": 1794172264.4632554
-  },
-  {
     "slug": "bitcoin-ve-altcoin-lerde-sert-d-s-r-yor-rubio-dan-",
     "title": "Bitcoin ve altcoin’lerde sert düşüş sürüyor: Rubio’dan İran açıklaması",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Bitcoin 60 bin dolar civarında, faiz ve düzenleme endişeleri sürüyor",
     "status": "posted",
     "ts": 1795514454.0481236
+  },
+  {
+    "slug": "bitcoin-in-55-bin-dolara-d-rekor-getirdi-bu-veri-f",
+    "title": "Bitcoin’in 55 Bin Dolara Düşüşü Rekor Getirdi: Bu Veri FTX Dibinin de Altında",
+    "status": "posted",
+    "ts": 1795521259.6065297
   }
 ]
