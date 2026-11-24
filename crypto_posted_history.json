@@ -1,11 +1,5 @@
 [
   {
-    "slug": "bitcoin-ve-altcoin-lerde-sert-d-s-r-yor-rubio-dan-",
-    "title": "Bitcoin ve altcoin’lerde sert düşüş sürüyor: Rubio’dan İran açıklaması",
-    "status": "posted",
-    "ts": 1794179099.679296
-  },
-  {
     "slug": "binance-sald-r-s-n-n-baz-a-amalar-nlenebilirdi-cz-",
     "title": "Binance Saldırısının Bazı Aşamaları Önlenebilirdi: CZ Hangi Hataları Anlattı?",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Bitcoin’in 55 Bin Dolara Düşüşü Rekor Getirdi: Bu Veri FTX Dibinin de Altında",
     "status": "posted",
     "ts": 1795521259.6065297
+  },
+  {
+    "slug": "bitcoin-etf-lerinde-ay-bitmeden-k-rekoru-blackrock",
+    "title": "Bitcoin ETF’lerinde Ay Bitmeden Çıkış Rekoru: BlackRock’ın Fonundan Bir Günde Yarım Milyar Dolar Çıktı",
+    "status": "posted",
+    "ts": 1795531037.139651
   }
 ]
