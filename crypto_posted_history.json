@@ -1,11 +1,5 @@
 [
   {
-    "slug": "eth-balinas-pozisyonunu-k-ltt-ama-tasfiyeden-ka-am",
-    "title": "ETH Balinası Pozisyonunu Küçülttü ama Tasfiyeden Kaçamadı: Toplam Zararı Ne?",
-    "status": "posted",
-    "ts": 1794196154.235801
-  },
-  {
     "slug": "bitcoin-75-bin-dolar-a-t-y-kseli-bekleyenlerin-913",
     "title": "Bitcoin 75 Bin Doları Aştı: Yükseliş Bekleyenlerin 913 Milyon Dolarlık Pozisyonu Tasfiye Oldu",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Nvidia ralli kazançları kayboldu: Bitcoin düşerken iki sebep öne çıkıyor",
     "status": "posted",
     "ts": 1795539876.792706
+  },
+  {
+    "slug": "kraken-in-kanada-piyasas-nda-bitcoin-17-000-dolara",
+    "title": "Kraken’in Kanada piyasasında Bitcoin 17.000 dolara satıldı ve işlemler iptal edilmeyecek",
+    "status": "posted",
+    "ts": 1795548592.8731687
   }
 ]
