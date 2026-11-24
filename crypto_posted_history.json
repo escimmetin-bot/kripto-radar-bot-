@@ -1,11 +1,5 @@
 [
   {
-    "slug": "xrp-10-oran-nda-geriledi",
-    "title": "XRP 10% oranında geriledi",
-    "status": "posted",
-    "ts": 1794157648.5134792
-  },
-  {
     "slug": "trump-gibi-elon-musk-da-kaybetti-se-im-i-in-500-mi",
     "title": "Trump gibi Elon Musk da kaybetti: Seçim için 500 milyon dolar harcadı",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "115 Milyon Dolarlık Satıştan Sonra Bitcoin’e Döndü: Balina Bu Kez Çok Daha Ucuza Aldı",
     "status": "posted",
     "ts": 1795494864.2047217
+  },
+  {
+    "slug": "upbit-d-rt-altcoin-i-in-listeleme-duyurdu-biri-y-z",
+    "title": "Upbit Dört Altcoin İçin Listeleme Duyurdu: Biri Yüzde 31 Yükseldi",
+    "status": "posted",
+    "ts": 1795503771.5495543
   }
 ]
