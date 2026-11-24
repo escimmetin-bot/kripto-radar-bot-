@@ -1,11 +1,5 @@
 [
   {
-    "slug": "binance-sald-r-s-n-n-baz-a-amalar-nlenebilirdi-cz-",
-    "title": "Binance Saldırısının Bazı Aşamaları Önlenebilirdi: CZ Hangi Hataları Anlattı?",
-    "status": "posted",
-    "ts": 1794188691.8366938
-  },
-  {
     "slug": "eth-balinas-pozisyonunu-k-ltt-ama-tasfiyeden-ka-am",
     "title": "ETH Balinası Pozisyonunu Küçülttü ama Tasfiyeden Kaçamadı: Toplam Zararı Ne?",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Bitcoin ETF’lerinde Ay Bitmeden Çıkış Rekoru: BlackRock’ın Fonundan Bir Günde Yarım Milyar Dolar Çıktı",
     "status": "posted",
     "ts": 1795531037.139651
+  },
+  {
+    "slug": "nvidia-ralli-kazan-lar-kayboldu-bitcoin-d-erken-ik",
+    "title": "Nvidia ralli kazançları kayboldu: Bitcoin düşerken iki sebep öne çıkıyor",
+    "status": "posted",
+    "ts": 1795539876.792706
   }
 ]
