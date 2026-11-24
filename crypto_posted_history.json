@@ -1,11 +1,5 @@
 [
   {
-    "slug": "trump-gibi-elon-musk-da-kaybetti-se-im-i-in-500-mi",
-    "title": "Trump gibi Elon Musk da kaybetti: Seçim için 500 milyon dolar harcadı",
-    "status": "posted",
-    "ts": 1794166644.0195394
-  },
-  {
     "slug": "abd-de-demokratlar-kongreyi-ald-kriptoda-denetim-a",
     "title": "ABD’de Demokratlar Kongreyi Aldı: Kriptoda Denetim Artar mı, Yeni Yasa Çıkar mı?",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Upbit Dört Altcoin İçin Listeleme Duyurdu: Biri Yüzde 31 Yükseldi",
     "status": "posted",
     "ts": 1795503771.5495543
+  },
+  {
+    "slug": "bitcoin-60-bin-dolar-civar-nda-faiz-ve-d-zenleme-e",
+    "title": "Bitcoin 60 bin dolar civarında, faiz ve düzenleme endişeleri sürüyor",
+    "status": "posted",
+    "ts": 1795514454.0481236
   }
 ]
