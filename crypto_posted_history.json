@@ -1,11 +1,5 @@
 [
   {
-    "slug": "vitalik-ethereum-da-cretleri-en-st-d-zeye-karmak-m",
-    "title": "Vitalik: Ethereum’da Ücretleri En Üst Düzeye Çıkarmak Merkeziyetsizliği Zedeler mi?",
-    "status": "posted",
-    "ts": 1794144385.125205
-  },
-  {
     "slug": "bitcoin-d-l-2028-de-yar-ya-i-niyor-finlandiya-da-m",
     "title": "Bitcoin Ödülü 2028’de Yarıya İniyor: Finlandiya’da Madencilikle Isınma Pahalılaşır mı?",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Grayscale’in Yeni Altcoin ETF’si İlk Seansta Yüzde 13’ten Fazla Düştü",
     "status": "posted",
     "ts": 1795477486.0776792
+  },
+  {
+    "slug": "ny-fed-in-williams-y-ksek-enflasyonun-daha-fazla-f",
+    "title": "NY Fed’in Williams’ı yüksek enflasyonun daha fazla faiz artırımını gerektirdiğini söyledi",
+    "status": "posted",
+    "ts": 1795486311.9327316
   }
 ]
