@@ -1,11 +1,5 @@
 [
   {
-    "slug": "abd-nin-en-b-y-k-perakende-arac-kurumu-bu-3-altcoi",
-    "title": "ABD’nin En Büyük Perakende Aracı Kurumu Bu 3 Altcoini Spot İşleme Açtı",
-    "status": "posted",
-    "ts": 1794257161.1679316
-  },
-  {
     "slug": "bitcoin-madencisi-mara-13-597-btc-satt-750-milyon-",
     "title": "Bitcoin Madencisi MARA 13.597 BTC Sattı: 750 Milyon Dolarlık Borcu Kapattı",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Bitcoin, ETF çıkışlarının baskısıyla 59.000 doların altına geriledi",
     "status": "posted",
     "ts": 1795593343.471873
+  },
+  {
+    "slug": "bitcoin-kas-m-daki-etf-k-lar-5-milyar-dolara-yakla",
+    "title": "Bitcoin, Kasım’daki ETF çıkışları 5 milyar dolara yaklaşırken 59.000 doların altına düştü",
+    "status": "posted",
+    "ts": 1795601456.2367272
   }
 ]
