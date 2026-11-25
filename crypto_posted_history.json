@@ -1,11 +1,5 @@
 [
   {
-    "slug": "abd-de-enflasyon-g-n-y-ll-k-veri-yok",
-    "title": "ABD’de enflasyon günü: Yıllık veri yok!",
-    "status": "posted",
-    "ts": 1794293932.383997
-  },
-  {
     "slug": "fed-in-faiz-art-rma-olas-l-84-e-y-kseldi-kriptolar",
     "title": "Fed’in faiz artırma olasılığı %84’e yükseldi kriptolardan çıkış yaşandı",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Fidelity’den Yeni Altcoin ETF’si İçin Başvuru: Fon Nasdaq’ta İşlem Görebilir",
     "status": "posted",
     "ts": 1795636279.3126497
+  },
+  {
+    "slug": "franklin-templeton-kripto-etf-sine-yeni-bir-altcoi",
+    "title": "Franklin Templeton Kripto ETF’sine Yeni Bir Altcoin Ekliyor: SEC’ye Bildirim Yapıldı",
+    "status": "posted",
+    "ts": 1795643542.3164468
   }
 ]
