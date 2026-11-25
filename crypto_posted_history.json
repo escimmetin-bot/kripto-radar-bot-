@@ -1,11 +1,5 @@
 [
   {
-    "slug": "fed-in-faiz-art-rma-olas-l-84-e-y-kseldi-kriptolar",
-    "title": "Fed’in faiz artırma olasılığı %84’e yükseldi kriptolardan çıkış yaşandı",
-    "status": "posted",
-    "ts": 1794302596.6127174
-  },
-  {
     "slug": "bitcoin-balinalar-blackrock-n-etf-sine-ge-iyor-3-6",
     "title": "Bitcoin Balinaları BlackRock’ın ETF’sine Geçiyor: 3,6 Milyar Dolarlık Dönüşümün Nedeni Ne?",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Franklin Templeton Kripto ETF’sine Yeni Bir Altcoin Ekliyor: SEC’ye Bildirim Yapıldı",
     "status": "posted",
     "ts": 1795643542.3164468
+  },
+  {
+    "slug": "bitcoin-etf-k-lar-ve-yapay-zeka-sat-lar-n-n-ard-nd",
+    "title": "Bitcoin, ETF çıkışları ve yapay zeka satışlarının ardından toparlandı",
+    "status": "posted",
+    "ts": 1795650302.4117477
   }
 ]
