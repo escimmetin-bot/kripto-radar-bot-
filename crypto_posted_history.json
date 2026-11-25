@@ -1,11 +1,5 @@
 [
   {
-    "slug": "bitcoin-d-zenleyici-belirsizlik-ve-etf-k-lar-yla-7",
-    "title": "Bitcoin düzenleyici belirsizlik ve ETF çıkışlarıyla 74 bin dolara geriledi",
-    "status": "posted",
-    "ts": 1794233764.53344
-  },
-  {
     "slug": "strategy-850-bin-bitcoin-i-de-ge-ti-strc-de-ald-la",
     "title": "Strategy, 850 bin Bitcoin’i de geçti: STRC de aldılar",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Binance Saldırı Sonrası Türev Hacmindeki Payını Korudu: Hacmin Yarısından Fazlası Hâlâ Borsada",
     "status": "posted",
     "ts": 1795571600.2858512
+  },
+  {
+    "slug": "binance-spot-piyasada-5-yeni-listeleme-i-lemler-ba",
+    "title": "Binance Spot Piyasada 5 Yeni Listeleme: İşlemler Başlıyor",
+    "status": "posted",
+    "ts": 1795578956.5922148
   }
 ]
