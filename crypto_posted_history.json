@@ -1,11 +1,5 @@
 [
   {
-    "slug": "strategy-850-bin-bitcoin-i-de-ge-ti-strc-de-ald-la",
-    "title": "Strategy, 850 bin Bitcoin’i de geçti: STRC de aldılar",
-    "status": "posted",
-    "ts": 1794241989.8143246
-  },
-  {
     "slug": "kripto-paralarda-d-derinle-ti-bitcoin-73-500-dolar",
     "title": "Kripto paralarda düşüş derinleşti: Bitcoin 73.500 dolara geriledi",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Binance Spot Piyasada 5 Yeni Listeleme: İşlemler Başlıyor",
     "status": "posted",
     "ts": 1795578956.5922148
+  },
+  {
+    "slug": "moskova-borsas-kripto-i-lemlerini-ba-lat-yor-usdt-",
+    "title": "Moskova Borsası Kripto İşlemlerini Başlatıyor: USDT’ye Bitcoin’den Farklı Vergi",
+    "status": "posted",
+    "ts": 1795586496.3451517
   }
 ]
