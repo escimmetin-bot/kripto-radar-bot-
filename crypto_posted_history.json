@@ -1,11 +1,5 @@
 [
   {
-    "slug": "demokrat-senat-r-4-kripto-irketine-uyar-g-nderdi-g",
-    "title": "Demokrat senatör 4 kripto şirketine uyarı gönderdi, gün verdi",
-    "status": "posted",
-    "ts": 1794221465.5592911
-  },
-  {
     "slug": "bitcoin-d-zenleyici-belirsizlik-ve-etf-k-lar-yla-7",
     "title": "Bitcoin düzenleyici belirsizlik ve ETF çıkışlarıyla 74 bin dolara geriledi",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Bitcoin Madencisi Kârdan Zarara Döndü: Bir Yılda 987 Milyon Dolar Zarar",
     "status": "posted",
     "ts": 1795562576.3657017
+  },
+  {
+    "slug": "binance-sald-r-sonras-t-rev-hacmindeki-pay-n-korud",
+    "title": "Binance Saldırı Sonrası Türev Hacmindeki Payını Korudu: Hacmin Yarısından Fazlası Hâlâ Borsada",
+    "status": "posted",
+    "ts": 1795571600.2858512
   }
 ]
