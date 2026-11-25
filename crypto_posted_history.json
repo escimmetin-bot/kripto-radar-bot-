@@ -1,11 +1,5 @@
 [
   {
-    "slug": "binance-te-1-2-milyar-dolarl-k-i-ran-ba-lant-s-i-d",
-    "title": "Binance’te 1,2 Milyar Dolarlık İran Bağlantısı İddiası: ABD’de Eski Çalışan İfadeye Çağrıldı",
-    "status": "posted",
-    "ts": 1794286185.9922495
-  },
-  {
     "slug": "abd-de-enflasyon-g-n-y-ll-k-veri-yok",
     "title": "ABD’de enflasyon günü: Yıllık veri yok!",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Bloomberg: 2.200’den fazla kurumun Bitcoin ETF’lerinde 29,8 milyar doları bulunuyor",
     "status": "posted",
     "ts": 1795626014.0621862
+  },
+  {
+    "slug": "fidelity-den-yeni-altcoin-etf-si-i-in-ba-vuru-fon-",
+    "title": "Fidelity’den Yeni Altcoin ETF’si İçin Başvuru: Fon Nasdaq’ta İşlem Görebilir",
+    "status": "posted",
+    "ts": 1795636279.3126497
   }
 ]
