@@ -1,11 +1,5 @@
 [
   {
-    "slug": "ethereum-hazinesi-tutan-irketin-k-r-7-kat-na-kt-75",
-    "title": "Ethereum Hazinesi Tutan Şirketin Kârı 7 Katına Çıktı: 751 Milyon Doların Ne Kadarı Kâğıt Üstünde?",
-    "status": "posted",
-    "ts": 1794271639.1233444
-  },
-  {
     "slug": "10-y-ld-r-uyuyan-ethereum-balinas-uyand-4-6-milyon",
     "title": "10 Yıldır Uyuyan Ethereum Balinası Uyandı: 4,6 Milyon Dolarlık ETH’yi Taşıdı",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Hyperliquid kilit bir yatırımcının çıkışıyla düştü, Bitcoin 59 bin doların altına geriledi",
     "status": "posted",
     "ts": 1795610091.9249701
+  },
+  {
+    "slug": "fed-in-enflasyon-verisi-geldi-bitcoin-ve-alt-nda-d",
+    "title": "Fed’in enflasyon verisi geldi: Bitcoin ve altında düşüş…",
+    "status": "posted",
+    "ts": 1795616252.1241262
   }
 ]
