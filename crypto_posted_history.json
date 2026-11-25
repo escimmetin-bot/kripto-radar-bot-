@@ -1,11 +1,5 @@
 [
   {
-    "slug": "10-y-ld-r-uyuyan-ethereum-balinas-uyand-4-6-milyon",
-    "title": "10 Yıldır Uyuyan Ethereum Balinası Uyandı: 4,6 Milyon Dolarlık ETH’yi Taşıdı",
-    "status": "posted",
-    "ts": 1794278686.4680607
-  },
-  {
     "slug": "binance-te-1-2-milyar-dolarl-k-i-ran-ba-lant-s-i-d",
     "title": "Binance’te 1,2 Milyar Dolarlık İran Bağlantısı İddiası: ABD’de Eski Çalışan İfadeye Çağrıldı",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Fed’in enflasyon verisi geldi: Bitcoin ve altında düşüş…",
     "status": "posted",
     "ts": 1795616252.1241262
+  },
+  {
+    "slug": "bloomberg-2-200-den-fazla-kurumun-bitcoin-etf-leri",
+    "title": "Bloomberg: 2.200’den fazla kurumun Bitcoin ETF’lerinde 29,8 milyar doları bulunuyor",
+    "status": "posted",
+    "ts": 1795626014.0621862
   }
 ]
