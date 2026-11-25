@@ -1,11 +1,5 @@
 [
   {
-    "slug": "kripto-paralarda-d-derinle-ti-bitcoin-73-500-dolar",
-    "title": "Kripto paralarda düşüş derinleşti: Bitcoin 73.500 dolara geriledi",
-    "status": "posted",
-    "ts": 1794250037.3840306
-  },
-  {
     "slug": "abd-nin-en-b-y-k-perakende-arac-kurumu-bu-3-altcoi",
     "title": "ABD’nin En Büyük Perakende Aracı Kurumu Bu 3 Altcoini Spot İşleme Açtı",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Moskova Borsası Kripto İşlemlerini Başlatıyor: USDT’ye Bitcoin’den Farklı Vergi",
     "status": "posted",
     "ts": 1795586496.3451517
+  },
+  {
+    "slug": "bitcoin-etf-k-lar-n-n-bask-s-yla-59-000-dolar-n-al",
+    "title": "Bitcoin, ETF çıkışlarının baskısıyla 59.000 doların altına geriledi",
+    "status": "posted",
+    "ts": 1795593343.471873
   }
 ]
