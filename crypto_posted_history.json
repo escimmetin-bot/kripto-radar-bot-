@@ -1,11 +1,5 @@
 [
   {
-    "slug": "bitcoin-madencisi-mara-13-597-btc-satt-750-milyon-",
-    "title": "Bitcoin Madencisi MARA 13.597 BTC Sattı: 750 Milyon Dolarlık Borcu Kapattı",
-    "status": "posted",
-    "ts": 1794263989.5413747
-  },
-  {
     "slug": "ethereum-hazinesi-tutan-irketin-k-r-7-kat-na-kt-75",
     "title": "Ethereum Hazinesi Tutan Şirketin Kârı 7 Katına Çıktı: 751 Milyon Doların Ne Kadarı Kâğıt Üstünde?",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Bitcoin, Kasım’daki ETF çıkışları 5 milyar dolara yaklaşırken 59.000 doların altına düştü",
     "status": "posted",
     "ts": 1795601456.2367272
+  },
+  {
+    "slug": "hyperliquid-kilit-bir-yat-r-mc-n-n-k-yla-d-t-bitco",
+    "title": "Hyperliquid kilit bir yatırımcının çıkışıyla düştü, Bitcoin 59 bin doların altına geriledi",
+    "status": "posted",
+    "ts": 1795610091.9249701
   }
 ]
