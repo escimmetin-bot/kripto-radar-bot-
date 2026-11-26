@@ -1,11 +1,5 @@
 [
   {
-    "slug": "blackrock-ba-lant-l-ethereum-k-1-74-milyar-dolara-",
-    "title": "BlackRock Bağlantılı Ethereum Çıkışı 1,74 Milyar Dolara Ulaştı: Coinbase’e Yeni Transfer",
-    "status": "posted",
-    "ts": 1794332571.2332299
-  },
-  {
     "slug": "usdt-de-60-g-nde-6-6-milyar-dolarl-k-daralma-ftx-s",
     "title": "USDT’de 60 Günde 6,6 Milyar Dolarlık Daralma: FTX Sonrasındaki Düşüşün İki Katından Fazla",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "İsviçre’de Spot Bitcoin ETF’si İşleme Açıldı: Fon 350 BTC ile Başladı",
     "status": "posted",
     "ts": 1795676730.1824305
+  },
+  {
+    "slug": "kripto-hazine-irketlerinden-3-kripto-parada-203-mi",
+    "title": "Kripto hazine şirketlerinden 3 kripto parada 203 milyon dolarlık satış",
+    "status": "posted",
+    "ts": 1795687348.8380785
   }
 ]
