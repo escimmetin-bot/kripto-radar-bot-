@@ -1,11 +1,5 @@
 [
   {
-    "slug": "bitcoin-74-bin-dolara-yakla-t-enflasyon-verisi-nce",
-    "title": "Bitcoin 74 Bin Dolara Yaklaştı: Enflasyon Verisi Öncesi Fed’den Faiz Artışı Beklentisi",
-    "status": "posted",
-    "ts": 1794325246.699502
-  },
-  {
     "slug": "blackrock-ba-lant-l-ethereum-k-1-74-milyar-dolara-",
     "title": "BlackRock Bağlantılı Ethereum Çıkışı 1,74 Milyar Dolara Ulaştı: Coinbase’e Yeni Transfer",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Galaxy Bitcoin’de Dip Çağrısını Geri Çekti: Bir Seviye Kırılırsa 48.500 Dolar Gündeme Gelebilir",
     "status": "posted",
     "ts": 1795668061.9803703
+  },
+  {
+    "slug": "i-svi-re-de-spot-bitcoin-etf-si-i-leme-a-ld-fon-35",
+    "title": "İsviçre’de Spot Bitcoin ETF’si İşleme Açıldı: Fon 350 BTC ile Başladı",
+    "status": "posted",
+    "ts": 1795676730.1824305
   }
 ]
