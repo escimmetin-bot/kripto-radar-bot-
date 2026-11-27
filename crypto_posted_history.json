@@ -1,11 +1,5 @@
 [
   {
-    "slug": "ethereum-hazinesi-tutan-irket-6-3-milyar-dolar-zar",
-    "title": "Ethereum Hazinesi Tutan Şirket 6,3 Milyar Dolar Zarar Açıkladı: Çoğu Kağıt Üstünde",
-    "status": "posted",
-    "ts": 1794399935.3744576
-  },
-  {
     "slug": "solana-ay-n-dibini-g-rd-en-b-y-k-halka-a-k-sol-haz",
     "title": "Solana Üç Ayın Dibini Gördü: En Büyük Halka Açık SOL Hazinesi Yeni Alım Planını Açıkladı",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Bitcoin’de Eski Dipleri Hatırlatan Sinyal: Düşüşe Rağmen Bu Gösterge Yükseliyor",
     "status": "posted",
     "ts": 1795755595.7799706
+  },
+  {
+    "slug": "upbit-i-ki-altcoin-i-listeleyecek-birinin-i-lem-sa",
+    "title": "Upbit İki Altcoin’i Listeleyecek: Birinin İşlem Saati Değişti",
+    "status": "posted",
+    "ts": 1795766015.7143562
   }
 ]
