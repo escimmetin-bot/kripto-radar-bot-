@@ -1,11 +1,5 @@
 [
   {
-    "slug": "binance-ten-iphone-kullan-c-lar-na-kritik-g-venlik",
-    "title": "Binance’ten iPhone kullanıcılarına kritik güvenlik uyarısı",
-    "status": "posted",
-    "ts": 1794455194.6237257
-  },
-  {
     "slug": "tradingview-deki-bir-hata-bitcoin-hakimiyetini-yan",
     "title": "TradingView’deki bir hata, Bitcoin hakimiyetini yanlışlıkla %24’e düşmüş gösterdi",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "USDT Arzında Dört Yılın En Sert Daralması: Bitcoin İçin Gözler Bu Veride",
     "status": "posted",
     "ts": 1795805456.693412
+  },
+  {
+    "slug": "binance-ten-i-stismar-demelerine-kar-yeni-ad-m-i-l",
+    "title": "Binance’ten İstismar Ödemelerine Karşı Yeni Adım: İlk Üç Haftada 27 Uyarı",
+    "status": "posted",
+    "ts": 1795812602.2400002
   }
 ]
