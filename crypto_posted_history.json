@@ -1,11 +1,5 @@
 [
   {
-    "slug": "analistler-bitcoin-de-ay-ya-d-nd-cryptoquant-veril",
-    "title": "Analistler Bitcoin’de “ayıya” döndü: CryptoQuant verileri",
-    "status": "posted",
-    "ts": 1794488234.5412793
-  },
-  {
     "slug": "bitcoin-etf-lerinde-k-be-g-nd-r-s-r-yor-fonlardan-",
     "title": "Bitcoin ETF’lerinde Çıkış Beş Gündür Sürüyor: Fonlardan 1,44 Milyar Dolar Çıktı",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Bitcoin Hisse Endekslerinin Haftalık Yüzde 4 Artışının Gerisinde: Düşüş Serisi Bitecek mi?",
     "status": "posted",
     "ts": 1795836295.5892775
+  },
+  {
+    "slug": "madencilik-ceo-su-alt-n-ve-bitcoin-rekabeti-2027-d",
+    "title": "Madencilik CEO’su: Altın ve Bitcoin rekabeti 2027’de sona erebilir",
+    "status": "posted",
+    "ts": 1795845199.2708244
   }
 ]
