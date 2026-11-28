@@ -1,11 +1,5 @@
 [
   {
-    "slug": "bitcoin-71-600-dolara-geriledi-strategy-msci-endek",
-    "title": "Bitcoin 71.600 dolara geriledi; Strategy, MSCI endeksinden çıkarılmasıyla sert düştü",
-    "status": "posted",
-    "ts": 1794518303.8651507
-  },
-  {
     "slug": "binance-te-bitcoin-tasfiyeleri-2021-den-beri-zirve",
     "title": "Binance’te Bitcoin Tasfiyeleri 2021’den Beri Zirvede: Açık Pozisyonlar Yüzde 17 Azaldı",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Bitcoin 60.000 doların altına düştü: Balinalar alım yaparken ETF çıkışları artıyor",
     "status": "posted",
     "ts": 1795872911.5695152
+  },
+  {
+    "slug": "bitcoin-59-000-dolar-civar-nda-kay-plar-n-telafi-e",
+    "title": "Bitcoin, 59.000 dolar civarında kayıplarını telafi etti; ETF çıkışları sekiz günlük seriye ulaştı",
+    "status": "posted",
+    "ts": 1795880467.0520945
   }
 ]
