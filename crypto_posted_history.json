@@ -1,11 +1,5 @@
 [
   {
-    "slug": "binance-te-bitcoin-tasfiyeleri-2021-den-beri-zirve",
-    "title": "Binance’te Bitcoin Tasfiyeleri 2021’den Beri Zirvede: Açık Pozisyonlar Yüzde 17 Azaldı",
-    "status": "posted",
-    "ts": 1794525240.5948768
-  },
-  {
     "slug": "bitcoin-de-coinbase-i-skontosu-ubattan-beri-en-der",
     "title": "Bitcoin’de Coinbase İskontosu Şubattan Beri En Derin Seviyede: Geçmişte Ne Olmuştu?",
     "status": "posted",
@@ -898,5 +892,11 @@
     "title": "Bitcoin, 59.000 dolar civarında kayıplarını telafi etti; ETF çıkışları sekiz günlük seriye ulaştı",
     "status": "posted",
     "ts": 1795880467.0520945
+  },
+  {
+    "slug": "bitcoin-59-000-dolar-n-zerinde-kay-plar-n-telafi-e",
+    "title": "Bitcoin, 59.000 doların üzerinde kayıplarını telafi ediyor; ETF çıkışları sekiz günlük seriye ulaştı",
+    "status": "posted",
+    "ts": 1795887569.0305784
   }
 ]
